@@ -1,0 +1,27 @@
+_repo: Der-Tod-des-Tizian-Idylle-Zwei-Dichtungen_60603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hofmannsthal, Hugo von
+    aliases:
+    - Hofmannstahl, Hugo von
+    - Von Hofmannsthal, Hugo
+    birthdate: 1874
+    deathdate: 1929
+    gutenberg_agent_id: '33600'
+    url: http://www.gutenberg.org/2009/agents/33600
+description: ''
+gutenberg_issued: '2019-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60603'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Tod des Tizian / Idylle
+
+  Zwei Dichtungen'
+url: http://www.gutenberg.org/ebooks/60603
